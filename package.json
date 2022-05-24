@@ -4,13 +4,13 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
-    "@prisma/client": "2.29.1",
-    "@vercel/node": "1.12.1",
-    "core-js": "3.16.2",
+    "@prisma/client": "2.30.3",
+    "@vercel/node": "1.15.3",
+    "core-js": "3.22.7",
     "jsonwebtoken": "8.5.1",
     "jwks-rsa": "1.12.3",
     "micro": "9.3.4",
-    "pg": "8.7.1",
+    "pg": "8.7.3",
     "uuid": "8.3.2",
     "whatwg-fetch": "3.6.2"
   },
